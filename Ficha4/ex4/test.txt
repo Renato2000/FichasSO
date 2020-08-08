@@ -1,0 +1,3 @@
+main.c
+redir
+test.txt
